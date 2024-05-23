@@ -32,7 +32,6 @@ dependencies {
     testImplementation(
             'com.codeborne:selenide:7.3.1',
             'org.junit.jupiter:junit-jupiter:5.10.2',
-            'org.assertj:assertj-core:3.25.3',
             'io.qameta.allure:allure-selenide:2.27.0'
     )
 }
