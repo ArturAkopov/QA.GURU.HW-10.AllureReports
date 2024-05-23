@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 23 12:58:00 GMT 2024","Thu May 23 12:58:04 GMT 2024","3837","","StepsTest","","StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Thu May 23 12:57:56 GMT 2024","Thu May 23 12:58:00 GMT 2024","4033","","SelenideTest","","SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Thu May 23 12:57:50 GMT 2024","Thu May 23 12:57:56 GMT 2024","6270","","LambdaTest","","LambdaTest","testIssueSearchLambdaSteps","testIssueSearchLambdaSteps()",""
